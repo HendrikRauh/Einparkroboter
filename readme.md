@@ -45,7 +45,7 @@ Beleuchtung, die immer an sein soll, kann direkt über die 5V vom Arduino betrie
 
 ### Warum?
 
-Zum Erkennen, wenn sie das Fahrzeug ausersehen gedreht hat oder sich gerade falsch bewegt.
+Zum Erkennen, wenn sie das Fahrzeug ausversehen gedreht hat oder sich gerade falsch bewegt.
 
 ### Pins
 
