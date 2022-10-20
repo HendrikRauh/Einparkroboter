@@ -9,5 +9,12 @@ Pins:
 
 ## 3 Ultraschalsensoren
 
+### Wenn je ein Trigger und ein Echo pin
+
 Pins:
 1 bis 4 & A0 & A1
+
+### Wenn die Sensoren nur ein Output haben
+
+Pins:
+2, 3, 4
