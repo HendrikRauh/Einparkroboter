@@ -7,6 +7,9 @@
 - [x] Terminal löten
 - [ ] Sensoren testen
 - [ ] Getriebe von der Höhe testen
+- [ ] Verkabeln
+- [ ] Ultraschallsensor Code schreiben [Ultraschall (4pin)](https://funduino.de/nr-10-entfernung-messen) | [Ultraschall (3pin)](https://docs.arduino.cc/built-in-examples/sensors/Ping)
+
 
 ## 4 Motoren
 
