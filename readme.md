@@ -22,7 +22,7 @@ Pins: 5 bis 12 mit Motoren
 
 [Script für 4 Motoren](/Test/Motoren/WechselRichtung.ino)
 
-> Immer nur einer der beiden PINs darf aktiv sein
+> Immer nur einer der beiden PINs darf aktiv sein (siehe Beispiel unten)
 
 ```ino
 // Im Uhrzeigersinn
