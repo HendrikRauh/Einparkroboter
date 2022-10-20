@@ -10,7 +10,6 @@
 - [ ] Verkabeln
 - [ ] Ultraschallsensor Code schreiben [Ultraschall (4pin)](https://funduino.de/nr-10-entfernung-messen) | [Ultraschall (3pin)](https://docs.arduino.cc/built-in-examples/sensors/Ping)
 
-
 ## 4 Motoren
 
 ### Verkabelung
@@ -22,6 +21,18 @@ Pins: 5 bis 12 mit Motoren
 ### Software
 
 [Script für 4 Motoren](/Test/Motoren/WechselRichtung.ino)
+
+> Immer nur einer der beiden PINs darf aktiv sein
+
+```ino
+// Im Uhrzeigersinn
+digitalWrite(Motor11, HIGH);    // 11 meint Motor 1 PIN 1
+digitalWrite(Motor12, LOW);     // 12 meint Motor 1 PIN 2
+
+// Gegen den Uhrzeigersinn
+digitalWrite(Motor11, LOW);
+digitalWrite(Motor12, HIGH);
+```
 
 ## 3 Ultraschallsensoren
 
@@ -42,6 +53,8 @@ Alle Beleuchtung sollte, sofern sie an und ausgeschalten werden soll, an Pin 13 
 Beleuchtung, die immer an sein soll, kann direkt über die 5V vom Arduino betrieben werden.
 
 ## Gyroskop
+
+> (Noch nicht klar ob wir das einbauen)
 
 ### Warum?
 
