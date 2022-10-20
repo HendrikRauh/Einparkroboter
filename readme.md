@@ -2,10 +2,13 @@
 
 ## 4 Motoren
 
+### Verkabelung
+
 [FUNDUINO - L298n](https://funduino.de/nr-34-motoren-mit-h-bruecke-l298n-ansteuern)
 
-Pins:
-5 bis 12 mit Motoren
+Pins: 5 bis 12 mit Motoren
+
+### Software
 
 [Script für 4 Motoren](/Test/Motoren/WechselRichtung.ino)
 
@@ -13,13 +16,11 @@ Pins:
 
 ### Wenn je ein Trigger und ein Echo Pin
 
-Pins:
-1 bis 4 & A0 & A1
+Pins: 1 bis 4 & A0 & A1
 
 ### Wenn die Sensoren nur ein Output haben
 
-Pins:
-2, 3, 4
+Pins: 2, 3, 4
 
 ## LEDs
 
@@ -37,4 +38,4 @@ Zum Erkennen, wenn sie das Fahrzeug ausersehen gedreht hat oder sich gerade fals
 
 ### Pins
 
-SDA & SCL
+SDA & SCL (+ 5V und GND)
