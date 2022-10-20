@@ -1,5 +1,10 @@
 # Einparkroboter
 
+## ToDo
+
+- [ ] Sensoren testen
+- [ ] Getriebe von der Höhe testen
+
 ## 4 Motoren
 
 ### Verkabelung
