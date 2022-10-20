@@ -2,6 +2,9 @@
 
 ## ToDo
 
+- [x] Grundfahrgestell bauen
+- [x] Motoren testen
+- [x] Terminal löten
 - [ ] Sensoren testen
 - [ ] Getriebe von der Höhe testen
 
@@ -44,3 +47,8 @@ Zum Erkennen, wenn sie das Fahrzeug ausersehen gedreht hat oder sich gerade fals
 ### Pins
 
 SDA & SCL (+ 5V und GND)
+
+```mermaid
+graph LR
+Ultraschall --> Arduino --> Motor
+```
