@@ -9,7 +9,8 @@
 - [ ] Getriebe von der Höhe testen
 - [ ] Verkabeln
 - [ ] Ultraschallsensor Test-Code schreiben [Ultraschall (4pin)](https://funduino.de/nr-10-entfernung-messen) | [Ultraschall (3pin)](https://docs.arduino.cc/built-in-examples/sensors/Ping)
-- [ ] 
+- [ ] Gyroskop Testen
+- [ ] Code für Gyroskop schreiben um eine Drehung zu erkennen
 
 ## 4 Motoren
 
