@@ -22,6 +22,6 @@
   - [ ] Sensor 1
   - [ ] Sensor 2
   - [ ] Sensor 3
-- [ ] Vergleichen von zwei Ultraschallsensoren
+- [ ] Vergleichen von zwei Werten der Ultraschallsensoren
   - [ ] Code schreiben
   - [ ] Überprüfen, wie genau das Ergebnis ist
