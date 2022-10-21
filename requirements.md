@@ -35,4 +35,4 @@ Two wooden boards with dimensions 191 mm x 55 mm and two wooden boards with dime
 ### Motors
 
 + 4 DC-brushless motors
-+ 2 H-Bridges `L298n` to controll the motors 
++ 2 H-Bridges `L298n` to controll the motors
