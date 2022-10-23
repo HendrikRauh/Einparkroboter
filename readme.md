@@ -10,10 +10,10 @@
 
 ---
 
-## [Wichtig](/important.md)
+## [Wichtig](/Markdown/important.md)
 
-## [Pinbelegung](/kabelmanagement.md)
+## [Pinbelegung](/Markdown/kabelmanagement.md)
 
-## [ToDo](/todo.md)
+## [ToDo](/Markdown/todo.md)
 
 ---
