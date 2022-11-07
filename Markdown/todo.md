@@ -9,8 +9,12 @@
 - [x] Getriebe von der Höhe testen
 - [ ] Verkabeln
 - [ ] Gyroskop Testen
-- [ ] Löcher für die Achsen bohren
-- [ ] Löcher für die Sensoren bohren
+- [ ] Löcher für die Achsen
+  - [ ] anzeichnen
+  - [ ] bohren (noch nicht) 
+- [ ] Löcher für die Sensoren
+  - [ ] anzeichnen
+  - [ ] bohren (noch nicht) 
 - [ ] Kabel anlöten (ganz am Schluss)
 
 ## Software
