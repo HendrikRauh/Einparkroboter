@@ -11,7 +11,7 @@
 - [ ] Gyroskop Testen
 - [ ] Löcher für die Achsen bohren
 - [ ] Löcher für die Sensoren bohren
-- [ ] Kabel anlöten
+- [ ] Kabel anlöten (ganz am Schluss)
 
 ## Software
 
