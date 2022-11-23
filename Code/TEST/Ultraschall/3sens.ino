@@ -26,8 +26,8 @@ void loop() {
     digitalWrite(trigPin1, HIGH);
     delayMicroseconds(10);
     digitalWrite(trigPin1, LOW);
-    duration = pulseIn(echoPin1, HIGH);
-    distance = duration*0.034/2;
+    duration1 = pulseIn(echoPin1, HIGH);
+    distance1 = duration1*0.034/2;
     Serial.print("Distanz1: ");
     Serial.println(distance1);
     delay(100);
@@ -35,8 +35,8 @@ void loop() {
     digitalWrite(trigPin2, HIGH);
     delayMicroseconds(10);
     digitalWrite(trigPin2, LOW);
-    duration = pulseIn(echoPin2, HIGH);
-    distance = duration*0.034/2;
+    duration2 = pulseIn(echoPin2, HIGH);
+    distance2 = duration2*0.034/2;
     Serial.print("Distanz2: ");
     Serial.println(distance2);
     delay(100);
@@ -44,8 +44,8 @@ void loop() {
     digitalWrite(trigPin3, HIGH);
     delayMicroseconds(10);
     digitalWrite(trigPin3, LOW);
-    duration = pulseIn(echoPin3, HIGH);
-    distance = duration*0.034/2;
+    duration3 = pulseIn(echoPin3, HIGH);
+    distance3 = duration3*0.034/2;
     Serial.print("Distanz3: ");
     Serial.println(distance3);
     delay(100);
