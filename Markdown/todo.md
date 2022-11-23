@@ -5,7 +5,7 @@
 - [x] Grundfahrgestell bauen
 - [x] Motoren testen
 - [x] Terminal löten
-- [ ] Sensoren testen
+- [x] Sensoren testen
 - [x] Getriebe von der Höhe testen
 - [ ] Verkabeln
 - [ ] Gyroskop Testen
@@ -13,7 +13,7 @@
   - [ ] anzeichnen
   - [ ] bohren (noch nicht) 
 - [ ] Löcher für die Sensoren
-  - [ ] anzeichnen
+  - [x] anzeichnen
   - [ ] bohren (noch nicht) 
 - [ ] Kabel anlöten (ganz am Schluss)
 
