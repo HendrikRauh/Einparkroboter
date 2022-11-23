@@ -1,7 +1,7 @@
-const int trigPin1 = 1;
-const int echoPin1 = 2;
-const int trigPin2 = 3;
-const int echoPin2 = 4;
+const int trigPin1 = 2;
+const int echoPin1 = 3;
+const int trigPin2 = 4;
+const int echoPin2 = 5;
 const int trigPin3 = A0;
 const int echoPin3 = A1;
 
@@ -27,26 +27,26 @@ void loop() {
     delayMicroseconds(10);
     digitalWrite(trigPin1, LOW);
     duration1 = pulseIn(echoPin1, HIGH);
-    distance1 = duration1*0.034/2;
-    Serial.print("Distanz1: ");
-    Serial.println(distance1);
-    delay(100);
     // ----------------------------------------
     digitalWrite(trigPin2, HIGH);
     delayMicroseconds(10);
     digitalWrite(trigPin2, LOW);
     duration2= pulseIn(echoPin2, HIGH);
-    distance2 = duration2*0.034/2;
-    Serial.print("Distanz2: ");
-    Serial.println(distance2);
-    delay(100);
     // ----------------------------------------
     digitalWrite(trigPin3, HIGH);
     delayMicroseconds(10);
     digitalWrite(trigPin3, LOW);
     duration3 = pulseIn(echoPin3, HIGH);
+    // -----------------------------------------
+    distance1 = duration1*0.034/2;
+    distance2 = duration2*0.034/2;
     distance3 = duration3*0.034/2;
+    Serial.print("Distanz1: ");
+    Serial.println(distance1);
+    Serial.print("Distanz2: ");
+    Serial.println(distance2);
     Serial.print("Distanz3: ");
     Serial.println(distance3);
     delay(100);
+    Serial.println("-----------------------");
 }
