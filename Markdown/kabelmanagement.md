@@ -4,13 +4,13 @@
 
 ### Motoren
 
-Pins ``5`` bis ``12``
+Pins ``6`` bis ``13``
 
 ### Sensoren
 
 #### Ultraschall
 
-Pins ``1`` bis ``4`` und Pins ``A0`` und ``A1``
+Pins ``2`` bis ``4`` und Pins ``A0`` und ``A1``
 
 #### Gyroskop
 

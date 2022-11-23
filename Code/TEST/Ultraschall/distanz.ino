@@ -1,8 +1,5 @@
-// Anschlüsse für Ultraschall-Sensor 
-// VCC = 5V
-// GND = GND
-// TRIG = D2
-// ECHO = D3
+// kleiner Pin = Triger
+// groß = Echo
 
 const int trigPin = 2;
 const int echoPin = 3;
