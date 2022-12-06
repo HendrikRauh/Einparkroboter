@@ -5,12 +5,14 @@
 ### Motoren
 
 Pins ``6`` bis ``13``
+>Gruppen aufsteigend (Links nach rechts auf Brücke)
 
 ### Sensoren
 
 #### Ultraschall
 
-Pins ``2`` bis ``4`` und Pins ``A0`` und ``A1``
+Pins ``2`` bis ``5`` und Pins ``A0`` und ``A1``
+> kleinerer Pin Betrag ist Trigger, größerer ist Echo
 
 #### Gyroskop
 
