@@ -11,10 +11,9 @@ Blau        |Trigger (US)
 Gelb        |Echo (US)
 Weiß        |Brücke Pin 1 (1 ist am Terminal)
 Lila        |Brücke Pin 2 (1 ist am Terminal)
-??          |Brücke Pin 3 (1 ist am Terminal)
-??          |Brücke Pin 4 (1 ist am Terminal)
-??          |SCL
-??          |SDA
+grün        |Brücke Pin 3 (1 ist am Terminal)
+orange      |Brücke Pin 4 (1 ist am Terminal)
+grau        |I2C (SCL & SDA)
 
 ## Anschlüsse am Arduino
 
