@@ -4,11 +4,11 @@
 
 Farbe | Beschreibung
 --- | ---
-Blau        |Trigger (US)
-Gelb        |Echo (US)
+Braun       |9V oder höher
 Rot         |5V
 Schwarz     |GND
-Braun       |9V oder höher
+Blau        |Trigger (US)
+Gelb        |Echo (US)
 Weiß        |Brücke Pin 1 (1 ist am Terminal)
 Lila        |Brücke Pin 2 (1 ist am Terminal)
 ??          |Brücke Pin 3 (1 ist am Terminal)
