@@ -1,6 +1,6 @@
 // Gyroskop Test
 // Two images taken to get the model right (folder: images) 
-// >> ("Gyroskop[CpuSide].jpg" & "Gyroskop[PinSide].jpg")
+// >> ("Gyroskop[MpuSide].jpg" & "Gyroskop[PinSide].jpg")
 
 // Model: 
 // Website for reference:
