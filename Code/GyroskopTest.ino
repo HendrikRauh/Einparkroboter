@@ -1,10 +1,20 @@
 // Gyroskop Test
 // Two pictures taken to get the model right 
-// >> ("CpuSide.jpg" & "PinSide.jpg")
+// >> ("Gyroskop[CpuSide].jpg" & "Gyroskop[PinSide].jpg")
 
 // Model: 
 // Website for reference:
 // Number of pins required:
+
+void setPinModes() {
+    // "pinMode" for all used pins
+
+}
+
+void readGyroskop() {
+    // code to read the gyro and print the values
+
+}
 
 void setup() {
     setPinModes();
@@ -13,14 +23,4 @@ void setup() {
 void loop() {
     readGyroskop();
     delay(100);
-}
-
-void setPinModes() {
-    // "pinMode" for all pins used
-
-}
-
-void readGyroskop() {
-    // code to read the gyro and print the values
-
 }
