@@ -2,17 +2,19 @@
 
 ## Colorcodes
 
-Blau:       Trigger (US)
-Gelb:       Echo (US)
-Rot:        5V
-Schwarz:    GND
-Braun:      +9V
-Weiß:       Brücke Pin 1 (Vom Terminal weg gezählt)
-Lila:       Brücke Pin 2 (Vom Terminal weg gezählt)
-:           Brücke Pin 3 (Vom Terminal weg gezählt)
-:           Brücke Pin 4 (Vom Terminal weg gezählt)
-:           SCL
-:           SDA
+Farbe | Beschreibung
+--- | ---
+Blau        |Trigger (US)
+Gelb        |Echo (US)
+Rot         |5V
+Schwarz     |GND
+Braun       |9V oder höher
+Weiß        |Brücke Pin 1 (1 ist am Terminal)
+Lila        |Brücke Pin 2 (1 ist am Terminal)
+??          |Brücke Pin 3 (1 ist am Terminal)
+??          |Brücke Pin 4 (1 ist am Terminal)
+??          |SCL
+??          |SDA
 
 ## Anschlüsse am Arduino
 
