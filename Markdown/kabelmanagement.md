@@ -7,13 +7,13 @@ Farbe | Beschreibung
 Braun       |9V oder höher
 Rot         |5V
 Schwarz     |GND
-Blau        |Trigger (US)
-Gelb        |Echo (US)
-Weiß        |Brücke Pin 1 (1 ist am Terminal)
-Lila        |Brücke Pin 2 (1 ist am Terminal)
-grün        |Brücke Pin 3 (1 ist am Terminal)
-orange      |Brücke Pin 4 (1 ist am Terminal)
-grau        |I2C (SCL & SDA)
+Blau        |Trigger (US)   & Motor1
+Gelb        |Echo (US)      & Motor2
+Weiß        |Brücke Pin 1   (1 ist am Terminal)
+Lila        |Brücke Pin 2   (1 ist am Terminal)
+grün        |Brücke Pin 3   (1 ist am Terminal)
+orange      |Brücke Pin 4   (1 ist am Terminal)
+grau        |I2C            (SCL & SDA)
 
 ## Anschlüsse am Arduino
 
