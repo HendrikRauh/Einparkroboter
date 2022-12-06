@@ -2,8 +2,11 @@
 // Two images taken to get the model right (folder: images) 
 // >> ("Gyroskop[MpuSide].jpg" & "Gyroskop[PinSide].jpg")
 
-// Model: GY-521
-// Website for reference: 
+// Model: GY-521 | MPU-6050 
+
+// Websites for reference: 
+// > https://www.makershop.de/sensoren/bewegung/gy-521/
+// > https://mschoeffler.com/2017/10/05/tutorial-how-to-use-the-gy-521-module-mpu-6050-breakout-board-with-the-arduino-uno/
 
 // -- Description of the pins --
 // VCC: 5V
